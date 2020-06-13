@@ -7,7 +7,7 @@ function init()
 }*/
 
 // function([string1, string2],target id,[color1,color2])    
-consoleText(['WELCOME TO SARAH WANG FAN CLUB', 'WE ALSO LOVE THOMAS THE TANK', 'HAPPY BIRTHDAY SARAH!!!'], 'text',['white','white','white']);
+consoleText(['WELCOME TO SARAH WANG FAN CLUB', 'WE ALSO LOVE THOMAS THE TANK', 'HAPPY BIRTHDAY SARAH!!!'], 'text',['purple','purple','purple']);
 
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];

@@ -32,9 +32,8 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-  background-color: #7BB0FE;
-  background-image: url(../img/acnh-bg.jpg);
-  background-size: max-height, max-width;
+  background-color: #f1f3f4;
+  background-image: url(../img/bg2.jpg);
   background-repeat: repeat;
 }
 
